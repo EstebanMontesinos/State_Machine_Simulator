@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estebanmontesinos/CLionProjects/homework8/Node.h
+map
+-
+istream
+-
+
+/Users/estebanmontesinos/CLionProjects/homework8/main.cpp
+iostream
+-
+fstream
+-
+Node.h
+/Users/estebanmontesinos/CLionProjects/homework8/Node.h
+vector
+-
+map
+-
+
